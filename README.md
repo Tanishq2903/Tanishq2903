@@ -1,8 +1,7 @@
-## Hi there 👋
 
-**Tanishq2903/Tanishq2903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:<h1 align="center">Hi 👋, I'm Tanishq Maharshi</h1>
+
+<h1 align="center">Hi 👋, I'm Tanishq Maharshi</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishq2903&label=Profile%20views&color=0e75b6&style=flat" alt="tanishq2903" /> </p>
